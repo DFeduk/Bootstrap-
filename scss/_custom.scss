@@ -1,0 +1,12 @@
+@import "variables";
+$container-max-widths: (
+  xxl: 1140px,
+) !default;
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$font-weight-base: 400;
+$body-color: $body-color-default;
+// $navbar-nav-link-padding-x: 10px;
+$nav-link-font-size: 14px;
+$nav-link-color: #23b7a4;
+$font-size-base: 0.875rem;
+
